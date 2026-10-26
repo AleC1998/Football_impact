@@ -1,0 +1,9 @@
+survey_season,socioeconomic_group,share_pct,source_file,notes
+2005/06,AB,48,National-Fan-Survey-Report-The-F.A.-Premier-League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2005/06,C1,24,National-Fan-Survey-Report-The-F.A.-Premier-League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2005/06,C2,18,National-Fan-Survey-Report-The-F.A.-Premier-League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2005/06,DE,10,National-Fan-Survey-Report-The-F.A.-Premier-League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2007/08,AB,42,NATIONAL FAN SURVEY - Premier League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2007/08,C1,32,NATIONAL FAN SURVEY - Premier League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2007/08,C2,16,NATIONAL FAN SURVEY - Premier League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
+2007/08,DE,9,NATIONAL FAN SURVEY - Premier League.pdf,Descriptive/validation input only; not used directly to fit gamma because LAD GDP per head is not a direct mapping to AB/C1/C2/DE occupational groups.
